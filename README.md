@@ -29,7 +29,7 @@ go to file directory and typing this command
 
     node server.js
 
-### ScreenShot
+### Application ScreenShot
 ![Application ScreenShot](http://upload.soda-zaa.com/image-B2BF_578DD59A.jpg)
 
 >>>>>>> Adding Polymer to this project.
