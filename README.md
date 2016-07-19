@@ -16,12 +16,18 @@ Install [polymer-cli](https://github.com/Polymer/polymer-cli):
     cd my-app
     polymer init app-drawer-template
 
-### Start the development server
+### Start the Application (Client)
 
 This command serves the app at `http://localhost:8080` and provides basic URL
 routing for the app:
 
     polymer serve
+    
+### Start the development server (Server)
+
+go to file directory and typing this command
+
+    node server.js
 
 ### ScreenShot
 ![Application ScreenShot](http://upload.soda-zaa.com/image-B2BF_578DD59A.jpg)
